@@ -1,8 +1,10 @@
 15-Sep-2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: charlier3g@yahoo.com, jdgrimmjr@aol.com
-At: 2026-09-15 22:45:01
-Id: nH3sYJh7
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: a4st6845@aol.com, bennett2581@centurylink.net
+At: 2026-09-15 22:45:41
+Id: RonaZwWB
